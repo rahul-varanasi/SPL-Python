@@ -1,0 +1,6 @@
+Hi...
+This is Rahul Varanasi
+I am writing this text file as an input to FileIO.py program which I have written for SPL assignment.
+Alright then.. Have a good day!!!
+
+Good Bye! :)
